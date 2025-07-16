@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-# 🚀 User Profile  
+# 🚀 My Profile  
 
 # Hi 👋, I'm Revan Jadhav
 
-**"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."**  
-— Sir M. Visvesvaraya  
+**"You can work hard, but if you don't work smart, then you'll have to work for the rest of your life." "**  
+— Sir Iron Man  
 
-Welcome to **VisvesvarayaCode**, a **Full-Stack Java Development** repository inspired by the legendary Indian engineer **Sir M. Visvesvaraya**. This repo is a hub for **enterprise-grade backend solutions, dynamic web applications, and database-driven projects** using modern Java technologies. 
+Welcome to **Revan-jadhav repos**, a **Full-Stack Java Development** repository inspired by the legendary Indian engineer **Sir M. Visvesvaraya**. This repo is a hub for **enterprise-grade backend solutions, dynamic web applications, and database-driven projects** using modern Java technologies. 
 
 
 ---
