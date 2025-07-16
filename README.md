@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Revan-jadhav/Revan-jadhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 🚀 User Profile  
 
 **"Engineering is the art of directing the great sources of power in nature for the use and convenience of man."**  
